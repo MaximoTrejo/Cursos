@@ -1,0 +1,12 @@
+El randrange()método devuelve un elemento seleccionado aleatoriamente del rango especificado.Quiere decir que se puede
+poner un rango por ejemplo random.randrange(3, 9) , quiere decir que cuando ejecutemos los numeros que van aparecer aleatoriamente son del 3 al 9 
+
+
+
+random.randrange( iniciar , detener [ , paso ] )
+Devuelve un elemento seleccionado al azar de . Esto es equivalente a , pero en realidad no crea un objeto de rango.range(start, stop, step)choice(range(start, stop, step))
+
+El patrón de argumento posicional coincide con el de range(). No se deben utilizar argumentos de palabras clave porque la función puede utilizarlos de formas inesperadas.
+
+Modificado en la versión 3.2:randrange() es más sofisticado en cuanto a producir valores distribuidos equitativamente. Antiguamente utilizaba un estilo como el int(random()*n)
+que podía producir distribuciones ligeramente desiguales.
