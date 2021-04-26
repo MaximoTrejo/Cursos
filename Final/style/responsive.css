@@ -1,0 +1,362 @@
+@media all and (min-width:580px) and (max-width:1024px) {
+
+
+#logo {
+	display: none;
+}
+
+
+#header{
+	height: auto;
+	right: 80px;
+
+}
+
+#info{
+	width: 580px;
+	height: auto;
+	margin-right: 0px;
+	margin-top: 50px;
+
+}
+
+#info .caja{
+width: 23%;
+padding: 10px;
+margin-left: 30px;
+font-size: 10px;
+
+}
+
+.informacion{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+.flexslider{
+	width: 100%;
+	height: 650px;
+}
+
+
+.slides img{
+	width: 100%;
+	height: 650px;
+}
+
+
+.flex-caption p{
+	top: 58%;
+	font-size: 20px;
+}
+
+.flex-caption h1{
+	top: 45%;
+
+ 	font-size: 70px;
+
+}
+
+/*contacto*/
+
+
+#formulario {
+
+	width: 580px;
+	height: auto;
+}
+
+#formulario h1{
+
+	width: 580px;
+	height: auto;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.contenedor{
+	
+	width: 580px;
+	height: 430px;
+	padding: 0px 0px;
+
+
+}
+
+#mapa{
+	
+	width: 580px;
+	height: 500px;
+	left:40px;
+	bottom: 0px;
+	top: 70px;
+
+}
+
+
+#google iframe{
+	
+	width: 540px;
+
+}
+
+/*Preguntas*/
+
+
+#preguntas{
+	height: auto;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width:599px){
+
+#logo {
+	display: none;
+}
+
+
+#header{
+	top: 20px;
+	right: 15px;
+
+}
+
+.menu li a{
+	font-size: 16px;
+
+}
+
+.flexslider{
+	width: 100%;
+	height: 450px;
+}
+.slides img{
+	width: 100%;
+	height: 450px;
+}
+
+.flex-caption p{
+	top: 57%;
+	font-size: 15px;
+}
+
+.flex-caption h1{
+	top: 45%;
+
+ 	font-size: 40px;
+
+}
+
+.flex-direction-nav a:before {
+  font-size: 25px;
+}
+
+#info{
+	width: 580px;
+	height: auto;
+	margin-right: 0px;
+	margin-top: 10px;
+
+}
+
+#info .caja{
+width: 9%;
+margin-left: 0px;
+font-size: 5px;
+width: 100px;
+
+}
+
+.informacion{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+#info .caja p{
+}
+
+.boton{
+	padding: 5px;
+	font-size: 5px;
+}
+
+footer {
+	width: 98%;
+	background-color: #F1F1F1;
+	margin-top: 20px;
+}
+
+footer h4{
+	padding: 6px;
+	font-size: 10px;
+}
+
+.informacion h2{
+	padding: 5px;
+	font-size: 10px;
+}
+
+.informacion p{
+	padding: 5px;
+	font-size: 10px;
+}
+
+
+
+
+
+/*contacto*/
+
+
+#formulario {
+
+	width: 90%;
+	height: 950px;
+}
+
+#formulario h1{
+	font-size: 20px;
+	width: 90%;
+	height: auto;
+	margin-top: 0px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+}
+
+.input{
+	width: 100%;
+	margin-left: 30px;
+	font-family:"century gothic";
+	font-size: 15px;
+	border-radius: 14px;
+}
+
+.contenedor{
+	
+	width: 100%;
+	height: 430px;
+	padding: 0px 0px;
+
+
+}
+
+#mapa{
+	
+	width: 90%;
+	height: 400px;
+	left:40px;
+	bottom: 0px;
+	top: 70px;
+
+}
+
+#titulo{
+	font-size:14px;
+	bottom: 20px;
+}
+
+#google iframe{
+	
+	width: 95%;
+	height: 300px;
+
+}
+.botoncontacto{
+	padding: 5px;
+	font-size: 11px;
+}
+
+}
+
+
+/*Preguntas*/
+
+#preguntas{
+	height: auto;
+
+}
+
+#pregunta1 h4{
+	font-size: 20px;
+}
+
+#pregunta1 p{
+	font-size: 15px;
+}
+#pregunta2 h4{
+	font-size: 20px;
+}
+
+#pregunta2 p{
+	font-size: 15px;
+}
+#pregunta3 h4{
+	font-size: 20px;
+}
+
+#pregunta3 p{
+	font-size: 15px;
+}
+#pregunta4 h4{
+	font-size: 20px;
+}
+
+#pregunta4 p{
+	font-size: 15px;
+}
+#pregunta5 h4{
+	font-size: 20px;
+}
+
+#pregunta5 p{
+	font-size: 15px;
+}
+
+}
